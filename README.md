@@ -1,13 +1,5 @@
 # STARTER-jpa03
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: 
-
-Then remove this TODO item.
-```
 
 Running at: <http://jpa03-vinsonlinn.dokku-01.cs.ucsb.edu/>
 
